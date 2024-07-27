@@ -30,18 +30,6 @@ We use several machine learning algorithms to predict customer churn, including:
 - **Random Forest**
 - **XGBoost**
 
-## 📈 **Results**
-
-The models are evaluated based on several metrics:
-
-- **Accuracy**
-- **Precision**
-- **Recall**
-- **F1 Score**
-
-Confusion Matrix and Feature Importance plots are used for better understanding.
-
-
 
 # 📑 **Project Table of Contents**
 
@@ -71,6 +59,18 @@ Confusion Matrix and Feature Importance plots are used for better understanding.
   - Interpretation and Insights.
   - Key Findings and Patterns.
   - Feature Importance and Contribution.
+ 
+
+## 📈 **Results**
+
+The models are evaluated based on several metrics:
+
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1 Score**
+
+Confusion Matrix and Feature Importance plots are used for better understanding.
 
 
 ## 🎉 **Key Insights and Recommendations**
